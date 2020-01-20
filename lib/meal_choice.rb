@@ -1,1 +1,1 @@
-meal_choice(meat = protein)
+meal_choice(protein = meat)
