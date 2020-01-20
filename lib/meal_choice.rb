@@ -1,1 +1,2 @@
-meal_choice(protein = meat)
+def meal_choice(protein = meat)
+end
